@@ -55,11 +55,6 @@ career-profile:
       
       我到底何时与 BIE别的 结缘的呢？每当思考起这个问题，我总是在纠结 是该从BIE别的 自己另起炉灶改弦易辙后才算起，还是要囊括进曾经作为 VICE中国 时期留给我的精神遗产， 思前想后也没个准确的答案。直到某天，我在油管看完一期VICE的视频，望着视频列表的标题发呆并沉浸在“what a shitty world"的低气压中时，惊觉平常通过微信公众号浏览的 BIE别的，似乎很久不曾让我感受到这种对世界苛责般审视的目光了。我意识到 此时此刻再去纠结于过往的关系着实有些愚蠢，此番行为无异于热恋期后对另一半的疑神疑鬼，围绕着 对方到底还是不是我一开始爱上的那个人这种恋爱脑问题 上演八点半抓马小剧场，然后逐步陷入到自我拧巴自我怀疑的环节。接受改变，或者转身离开。从改版后我每隔几天就点进主页巴拉简报的习惯来看，其实在心底早已给出了答案。大概是左派某种固有的批判性倾向--当然这是往好听了说，本质上也可能不过只是来自无能的理想主义者自身 愤世嫉俗般的narcissism的外溢，总想给这种改变挑刺儿然后煞有介事的感叹一句，变了，没那味儿了，XX一死，完成精神左派网上键政时的常规发言。还好当时我的脑子管住了躁动的双手，避免了将来被打脸的结局。从现在来看，这种改变无疑是令我欣喜的。即便今天再把 BIE别的 和 VICE放在一起比较，我依旧偏爱于 BIE别的 的调性--保持着对社会敏锐观察的同时，多了些个人视角下的温情，少了丝对世界荒诞的嘲弄。个体先锋性，这大概是我从BIE别的所领悟到的一个永恒的人生议题。与其困扰于世界该怎么样，不如即刻反观下自身与世界的关系。无论是绘画也好，音乐也好，写作也好，找到与世界相处的途径。不管是种族问题也好还是性别问题也罢，理清这些社会建构的概念对自己生命的意义。而来自 BIE别的 的内容，大概是赋予自身勇气并去尝试改变的最佳养料吧。
 
-projects:
-    title: 应聘职位：简报编辑(编译方向)实习生
-    intro: >
-     内容测试
-
 education:
     - degree: HBA in English and Communication Studies
       university: Xi'an Jiaotong-Liverpool University
@@ -134,18 +129,18 @@ projects:
         link: 
         tagline: 
         
-      - title: Destiny Child
-        link: 
-        tagline: 
+projects:
+    title: Game Experience
+    intro: >
+      I would say I am quite omnivorous in terms of game genre. I was a huge fan of Pokemon since I was a child, while I also played the Red Alert series and StarCraft at that time. Then, I underwent my teenage years mainly with the company of League of Legends and Overwatch.
+      I used to play Rainbow Six Seige; For Horner; The Division series; and most Ubisoft games. Now, Apex Legend is my staple. Of course, besides those long service-oriented games, I also had played GTA series, Red Dead Redemption, Sekiro: Shadows Die Twice, and basically most of the famous games every year. The games that moved me the most in recent years were NieR: Automata, The Witcher 3, Cyberpunk 2077 and Disco Elysium. Frankly, I prefer to pay attention to the story and narrative rather than the design of the game mechanism, though I fully understand how fatal the game mechanism design it is.
+      
+projects:
+    title: 应聘职位：简报编辑(编译方向)实习生
+    intro: >
+     内容测试
+     
 
-      - title: Reverse:1999
-        link: 
-        tagline: 
-
-      - title: Honkai Impact 3
-        link: 
-        tagline: 
-        
 skills:
     title: Skills &amp; Proficiency
 
