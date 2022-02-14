@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yintao Liu 
-    tagline: Postgraduate student
+    name: 刘寅韬
+    tagline: 研究生在读
     avatar: profile 1x1.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fakrux077a@163.com
     phone: +86 18962557546
-    citizenship: the People's Republic of China
+    citizenship: 中国（大陆）
     website:  #do not add http://
     linkedin: 
     xing: 
@@ -29,23 +29,23 @@ sidebar:
     Wechat: l958937159
 
     languages:
-      - idiom: Chinese
-        level: Native
+      - idiom: 中文
+        level: 母语
 
-      - idiom: English
-        level: Fluent
+      - idiom: 英语
+        level: 流利
 
     interests:
-      - item: Video Game
+      - item: 游戏
         link:
 
-      - item: Reading
+      - item: 阅读
         link:
 
-      - item: Films/Animation
+      - item: 电影、动画
         link:
         
-      - item: Digital Art
+      - item: 数字艺术
         link:
 
 career-profile:
