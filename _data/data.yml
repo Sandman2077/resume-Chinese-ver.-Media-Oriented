@@ -79,42 +79,38 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Administration Assistant (Internship)
+    - role: 行政助理(Internship)
       time: 2017.8 - 2018.2
-      company: Physical Education Centre of Xi'an Jiaotong-Liverpool University, Suzhou
+      company: Physical Education Centre of Xi'an Jiaotong-Liverpool University, 苏州
       details: |
-        Assist administrative staff in daily affairs and event planning.
-          - Financial affairs
-          - Operating activities
-          - Student Clubs/School teams Management
-          - Advertisement design/ Graphic design
-    - role: Assistant Producer (Internship)
+        协助行政人员进行日常工作及活动策划
+          - 统计
+          - 活动策划
+          - 学校组织及社团管理
+          - 广告宣传/平面设计
+    - role: 制片助理 (Internship)
       time: 2019.6 - 2019.8
-      company: HaorealFilm, Kunming
+      company: 昆明浩睿文化传播有限公司
       details: |
-        Participate in the pre-production of a documentary and help producer cope with regular affairs.
-          - Background information research (field research and interviews)
-          - Filming outline and scripting
-          - Briefly budgeting
-          - Shooting schedule
-    - role: Platform Manager
+        参与CCTV 地方志纪录片单集的前期拍摄策划
+          - 背景调研 (田野调查、采访)
+          - 参与影片大纲编订及剧本编写
+          - 拍摄日程制定
+    - role: 微信公众号运营及小程序平台管理
       time: 2018.9 - 2018.10
-      company: Linx, Suzhou
+      company: Linx, 苏州
       details: |
-        Several friends and I launched an online trading software through the Wechat platform, which is targeted to the freshmen from all the colleges in our high educational district.
-        We mainly sell some daily necessities and household appliances (like small refrigerators, washing machines and routers). My friends did programming and interactive design, and I was responsible for
-        publicity and personnel management. It was the first time for me to experience and practice concepts unrelated to my major, 
-        such as supply chain management, personnel recruitment, delivery, accounting and so on. Luckily, we didn't make any big mistakes and earned a fair amount of income in the end. It may not be a formal work experience, but I did learn a lot.
-          - Accounting 
-          - Staffs recruitment and management
-          - Product photography
-          - Poster and leaflet design
-          - Selling
-          - Delivery
-          - Customer service
-          - Advertising (Online and Offline)
-          - Product quality inspecting
-
+        我和几个朋友通过微信小程序发布了一个针对当地高教区所有即将入学新生的线上交易的平台，主要销售一些生活用品和家用电器(如小冰箱，洗衣机，路由器)。我的朋友们做编程和交互设计，我则主要负责平台宣传和人员管理。
+        第一次尝试运营公众号并与其它当地机构品牌互动，扩大宣传。同时也是我第一次体验和实践与专业无关的概念和工作，诸如供应链管理、人员招聘、交付、会计等。幸运的是，我们没有犯任何大错误，并在最后获得了相当多的收入。这可能不是正式的工作经历，但我确实学到了很多。
+          - 财务结算
+          - 人员招聘及管理
+          - 产品摄影
+          - 宣传物料设计
+          - 销售
+          - 配送
+          - 客服
+          - 线上及线下广告宣传
+          - 产品质检
 projects:
     title: 应聘职位
     intro: >
