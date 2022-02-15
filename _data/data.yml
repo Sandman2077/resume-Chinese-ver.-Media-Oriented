@@ -131,8 +131,21 @@ projects:
         link: 
         tagline: 非常喜欢 BIE别的 在自媒体运营上的调性，相信自己可以很快融入大家创作的氛围。如经历中所述对微信平台公众号运营有一些经历可以快速上手，有一定的平面设计能力，曾经担任过学校平面设计组织副社长，参与校刊制作和一些广告宣传的设计(一些过往作品展示请查看附件PDF)。具备一定的中英文写作能力。可每周到岗5天，持续三个月以上，接受节假日轮值班。
 
+      - title: 品牌合作实习生(上海)
+        link: 
+        tagline: 个人较为熟悉电子产品相关的品牌和企业。另一方面，我对当下潮流文化有一定了解，在社交媒体平台有关注一些潮牌主理人，对国朝，时装，潮玩等概念有基本认知。同样也比较关注奢侈品行业在中国的发展(虽然买不起)，信息接受渠道主要来自阅读JingDaily杂志对当下各品牌和事件的分析文章。本人乐于和他人合作沟通，具备一定的领导和统筹能力，注重沟通方式态度，做事认真细心，愿意承担责任。具备中英翻译能力。
+      
+      - title: 制片助理(北京)
+        link: 
+        tagline: 有参与纪录片制作的工作经历，且主要负责前期准备工作，也熟悉后期制片流程。善于沟通，与各行各业，性格各异的人们打好关系是我的优点。在游戏，电影，动画领域有自己的见解。有良好的英语听说读写能力，可在英文环境中工作。注重计划，时间管理意识强。影片拍摄及制作能力相关展示请查看附件中的链接。
+
+
+
+
+
+
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能及熟练度
 
     toolset:
       - name: Adobe After effect (for filmmaking)
@@ -141,10 +154,10 @@ skills:
       - name: Adobe Premiere Pro (for filmmaking)
         level: 80%
 
-      - name: Social media account operation
+      - name: 社交媒体账号运营
         level: 75%
 
-      - name: Game design (preliminary work)
+      - name: 写作 (English and Chinese)
         level: 75%
 
       - name: Adobe Photoshop
